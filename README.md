@@ -1,2 +1,2 @@
 # Working-with-development-boards
-this program is about development program.
+This repo is all about coding with development boards.
